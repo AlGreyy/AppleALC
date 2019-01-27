@@ -32,5 +32,90 @@
 		<key>controllerNum</key>
 		<integer>1</integer>
 	</dict>
+	<dict>
+		<key>Comment</key>
+		<string>AMD Zen 1</string>
+		<key>Detect</key>
+		<true/>
+		<key>Tree</key>
+		<array>
+			<string>AppleACPIPCI</string>
+			<string>GP18</string>
+			<string>IOPP</string>
+			<string>HDEF</string>
+			<string>AppleHDAController</string>
+			<string>IOHDACodecDevice</string>
+		</array>
+		<key>controllerNum</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>Comment</key>
+		<string>AMD Zen 2</string>
+		<key>Detect</key>
+		<true/>
+		<key>Tree</key>
+		<array>
+			<string>AppleACPIPCI</string>
+			<string>BR16</string>
+			<string>IOPP</string>
+			<string>HDEF</string>
+			<string>AppleHDAController</string>
+			<string>IOHDACodecDevice</string>
+		</array>
+		<key>controllerNum</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>Comment</key>
+		<string>AMD Zen 3</string>
+		<key>Detect</key>
+		<true/>
+		<key>Tree</key>
+		<array>
+			<string>AppleACPIPCI</string>
+			<string>BR15</string>
+			<string>IOPP</string>
+			<string>HDEF</string>
+			<string>AppleHDAController</string>
+			<string>IOHDACodecDevice</string>
+		</array>
+		<key>controllerNum</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>Comment</key>
+		<string>AMD Zen 4</string>
+		<key>Detect</key>
+		<true/>
+		<key>Tree</key>
+		<array>
+			<string>AppleACPIPCI</string>
+			<string>S08</string>
+			<string>IOPP</string>
+			<string>HDEF</string>
+			<string>AppleHDAController</string>
+			<string>IOHDACodecDevice</string>
+		</array>
+		<key>controllerNum</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>Comment</key>
+		<string>AMD Zen 5</string>
+		<key>Detect</key>
+		<true/>
+		<key>Tree</key>
+		<array>
+			<string>AppleACPIPCI</string>
+			<string>GP17</string>
+			<string>IOPP</string>
+			<string>HDEF</string>
+			<string>AppleHDAController</string>
+			<string>IOHDACodecDevice</string>
+		</array>
+		<key>controllerNum</key>
+		<integer>3</integer>
+	</dict>
 </array>
 </plist>
